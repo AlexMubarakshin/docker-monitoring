@@ -1,4 +1,4 @@
-const Table = require('cli-table');
+const Table = require('cli-table2');
 
 const table = new Table({
     head: ["ID", "NAME", "PORTS", "CREATED_AT"], 
