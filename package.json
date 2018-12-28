@@ -8,6 +8,8 @@
   },
   "author": "Alm",
   "license": "ISC",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "cli-table": "^0.3.1"
   }
 }
